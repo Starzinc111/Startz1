@@ -1,7 +1,10 @@
+<project xmlns="http://maven.apache.org/POM/3.9.2">
 
-    <groupId>javaxervlet</groupId>
-    <artifactId>serv</artifactId>
-    <version>2.5</version>
+    <modelVersion>3.9.2</modelVersion>
+    <groupId>helloworld_anu</groupId>
+    <artifactId>helloworld_anu</artifactId>
+    <version>0.0.1-snapshot</version>
   
 <dependency>
 </dependency>
+</project>
