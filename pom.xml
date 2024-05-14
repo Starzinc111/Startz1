@@ -1,10 +1,11 @@
-<project xmlns="http://maven.apache.org/POM/3.9.2">
-
-    <modelVersion>3.9.2</modelVersion>
-    <groupId>helloworld_anu</groupId>
-    <artifactId>helloworld_anu</artifactId>
-    <version>0.0.1-snapshot</version>
-  
+<project xmlns="http://maven.apache.org/POM/3.9.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/3.9.2 http://maven.apache.org/xsd/maven-3.9.2.xsd">
+  <modelVersion>3.9.2</modelVersion>
+ 
+  <groupId>com.mycompany.app</groupId>
+  <artifactId>my-app</artifactId>
+  <version>1.0-SNAPSHOT</version>
+ 
 <dependency>
 </dependency>
 </project>
